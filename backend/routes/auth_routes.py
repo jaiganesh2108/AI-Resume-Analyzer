@@ -9,7 +9,7 @@ def signup(user:dict):
     email = user.get("email")
     password = user.get("password")
 
-    if not email or not password:
+    if not isinstance(email, str) or not isinstance(password, str) or not email.strip() or not password:
         raise HTTPException(status_code=400, detail="Email and password are required")
 
     existing = users.find_one({"email": email})
@@ -31,7 +31,7 @@ def login(user: dict):
     email = user.get("email")
     password = user.get("password")
 
-    if not email or not password:
+    if not isinstance(email, str) or not isinstance(password, str) or not email.strip() or not password:
         raise HTTPException(status_code=400, detail="Email and password are required")
 
     existing = users.find_one({"email": email})
