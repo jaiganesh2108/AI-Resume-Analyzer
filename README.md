@@ -4,10 +4,10 @@ Full-stack resume analysis app with authentication, PDF upload, Gemini-powered e
 
 ---
 
-<img width="500" height="500" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/9dbb7144-9ecd-470e-9439-c76be45a4a20" />
-<img width="500" height="500" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/d4984407-49d4-48d7-b072-a1bdc4a55b23" />
-<img width="500" height="500" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/9c4d66c4-1e25-4d97-aa3f-3bf1d63d1ee3" />
-<img width="500" height="500" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/1b19340d-6109-465c-bf14-b1367a411712" />
+<img width="600" height="600" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/9dbb7144-9ecd-470e-9439-c76be45a4a20" />
+<img width="400" height="400" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/d4984407-49d4-48d7-b072-a1bdc4a55b23" />
+<img width="400" height="400" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/9c4d66c4-1e25-4d97-aa3f-3bf1d63d1ee3" />
+<img width="400" height="400" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/1b19340d-6109-465c-bf14-b1367a411712" />
 
 ## Features
 
