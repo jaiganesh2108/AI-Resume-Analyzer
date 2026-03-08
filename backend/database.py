@@ -1,13 +1,12 @@
-import os
-
 from pymongo import MongoClient
 
-MONGO_URL = os.getenv("MONGO_URL", "mongodb://localhost:27017")
-MONGO_DB_NAME = os.getenv("MONGO_DB_NAME", "resume_analyzer")
+MONGO_URL = "mongodb+srv://jaiganeshh574_db_user:LeRvn8kZo1dvdadc@cluster0.8urtiqk.mongodb.net/?appName=Cluster0"
 
 client = MongoClient(MONGO_URL)
 
-db = client[MONGO_DB_NAME]
+db = client["resume_analyzer"]
 
 users = db["users"]
 resumes = db["resumes"]
+
+# LeRvn8kZo1dvdadc
